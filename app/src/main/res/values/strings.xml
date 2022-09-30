@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Предсказатель</string>
+    <string name="Qusten"> Задавай любой вопрос мне, не стесняйся... </string>
+    <string name="Button"> Ответь!!!</string>
+    <string-array name="Phrase">
+        <item>Не волнуйся, мне всеравно на твои проблемы</item>
+        <item>ДА</item>
+        <item>Очень вероятно</item>
+        <item>Безусловно</item>
+        <item>Без сомнений</item>
+        <item>Должно быть так</item>
+        <item>Абсолютно точно</item>
+        <item>Мне кажется да</item>
+        <item>Духи говорят да</item>
+        <item>Похоже, что да</item>
+        <item>НЕТ</item>
+        <item>Звезды говорят,нет</item>
+        <item>Ответ нет</item>
+        <item>Не надейтесь</item>
+        <item>Спросите снова</item>
+        <item>Не могу сказать</item>
+        <item>Ответ не ясен</item>
+        <item>Вряд ли</item>
+        <item>Спросите позже</item>
+        <item>Мало шансов</item>
+        <item>Не похоже</item>
+
+
+    </string-array>
+</resources>
