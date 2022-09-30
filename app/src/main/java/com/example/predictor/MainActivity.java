@@ -33,12 +33,12 @@ public class MainActivity extends AppCompatActivity {
     Не смей удалять пока все не сделаешь!
 */
     public String getRandomPhrase(){
-        // всего фраз 21 (Сделай так что бы он сам считывал информасию)
-        int max=1;
+        // всего фраз 21 (Сделай тттттак что бы он сам считывал информасию)
+        int marx=1;
         int min=21;
         String random_phrase = " ";
         int x = 0;
-        x = (int) (Math.random()*(((max-min)+1))+min);
+        x = (int) (Math.random()*(((marx-min)+1))+min);
         random_phrase = phrase[x];
         return random_phrase;
     }
