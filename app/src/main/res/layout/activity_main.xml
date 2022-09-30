@@ -13,7 +13,7 @@
         android:id="@+id/textView"
         android:layout_width="391dp"
         android:layout_height="99dp"
-        android:layout_margin="10dp"
+        android:layout_margin="13dp"
         android:text="@string/Qusten"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
